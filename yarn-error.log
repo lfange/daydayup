@@ -1,0 +1,32 @@
+Arguments: 
+  E:\Program Files\nvm\node\node.exe E:\Program Files\nvm\node\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\a6533\bin;F:\workSoftware\Git\Git\mingw64\bin;F:\workSoftware\Git\Git\usr\local\bin;F:\workSoftware\Git\Git\usr\bin;F:\workSoftware\Git\Git\usr\bin;F:\workSoftware\Git\Git\mingw64\bin;F:\workSoftware\Git\Git\usr\bin;C:\Users\a6533\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;F:\New Folder;C:\WINDOWS\System32\OpenSSH;C:\Program Files\TortoiseGit\bin;F:\workSoftware\VScode\Microsoft VS Code\bin;E:\Program Files\nvm\nvm;E:\Program Files\nvm\node;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;F:\workSoftware\Git\Git\cmd;E:\Software\xshell7;E:\Software\xftp7;E:\Software\MinGW\bin;F:\workSoftware\VScode\Microsoft VS Code\bin;E:\Program Files\nvm\node;F:\Software\Bandizip;C:\Users\a6533\AppData\Local\Microsoft\WindowsApps;E:\Program Files\nvm\nvm;F:\Software\fiddler;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;F:\workSoftware\Git\Git\usr\bin\vendor_perl;F:\workSoftware\Git\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  12.19.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (E:\Program Files\nvm\node\node_modules\yarn\lib\cli.js:96935:59)
+      at Object.<anonymous> (E:\Program Files\nvm\node\node_modules\yarn\lib\cli.js:89125:38)
+      at Generator.next (<anonymous>)
+      at step (E:\Program Files\nvm\node\node_modules\yarn\lib\cli.js:310:30)
+      at E:\Program Files\nvm\node\node_modules\yarn\lib\cli.js:321:13
+      at processTicksAndRejections (internal/process/task_queues.js:97:5)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
